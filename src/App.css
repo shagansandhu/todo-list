@@ -1,0 +1,10 @@
+.task{
+  background-color: pink;
+  border:2px solid black;
+}
+.task.important{
+  background-color: red;
+}
+.done{
+  text-decoration: line-through;
+}
